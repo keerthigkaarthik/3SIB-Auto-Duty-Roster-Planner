@@ -1,0 +1,25 @@
+*,branch, name, nightduty, points from last month, no. of wkends last month, points earned this month, no. of wkends this month, total points, total no. of wkends
+
+*,S1,Afif,True,2.14,0.76,0,0,2.14,0.76
+*,S1,Zonghan,True,1.29,0,0,0,1.29,0
+*,S1,Kaarthik,True,3.59,0.50,0,0,3.59,0.50
+*,S1,Zi Dong,True,1.97,-0.09,0,0,1.97,-0.09
+*,S1,John,False,0.24,0.14,0,0,0.24,0.14
+*,S1,Ryan,Flase,2.28,0.40,0,0,2.28,0.40
+*,S1,Brycen,False,0,0,0,0,0,0
+*,S1,Matin,False,0,0,0,0,0,0
+
+*,S2,Sam,True,0.59,0,0,0,0.59,0
+*,S2,Marvin,True,0.54,0,0,0,0.54,0
+*,S2,Zheng Da,True,0.46,0.26,0,0,0.46,0.26
+*,S2,Irfan,True,0.54,0.05,0,0,0.54,0.05
+
+*,S3,Boon Teck,True,2.98,0.40,0,0,2.98,0.40
+*,S3,Ze Min,True,0.59,0,0,0,0.59,0
+*,S3,Hazim,True,0,0,0,0,0,0
+
+*,S4,Nat,True,1.09,0,0,0,1.09,0
+*,S4,Wei Kang,True,-0.26,-0.36,0,0,-0.26,-0.36
+*,S4,Alif,True,1.26,0.28,0,0,1.26,0.28
+*,S4,Chor Shing,True,0.26,-0.22,0,0,0.26,-0.22
+

@@ -1,0 +1,72 @@
+f*f,branch,name,nightduty,points from last month,no. of wkends last month,points earned this month,no. of wkends this month,total points,total no. of wkends
+
+ 
+
+Total points: 43.0,Total points: 12.0,Average points: 2.69,Average wkeds: 0.75,Balanced points: 0,Balanced wkeds: 0
+
+ 
+
+ 
+
+S1 Branch:
+
+*,S1,Ryan,False,1.2,0.43,1.5,0.5,1.01,0.18
+
+*,S1,Clement,True,2.1,0.86,1.5,0,0.91,0.11
+
+*,S1,Jun Hao,True,0.6,-0.14,3.5,1.5,1.41,0.61
+
+*,S1,Yu An,False,0.63,0.49,2.5,0.5,0.44,0.24
+
+*,S1,Lennon,True,0.98,0.14,3.0,1.0,1.29,0.39
+
+*,S1,Yuvan,True,0,0,0,0,0,0
+
+*,S1,Wen Yi,False,0,0,0,0,0,0
+
+ 
+
+ 
+
+S2 Branch:
+
+*,S2,Zheng Da,True,0.48,0.14,3.5,1.0,1.29,0.39
+
+*,S2,Sam,False,0.0,1.08,3.0,0,0.31,0.33
+
+*,S2,Chee Yong,True,0.98,0.64,3.0,1,1.29,0.89
+
+*,S1,Greg,True,0,0,0,0,0,0
+
+ 
+
+ 
+
+S3 Branch:
+
+*,S3,Boon Teck,True,2.08,1.41,0,0,-0.61,0.66
+
+*,S3,Keith,True,0.0,0.0,4.0,1.0,1.31,0.25
+
+*,S3,Jia Le,True,0.98,0.64,3.0,0.5,1.29,0.39
+
+ 
+
+ 
+
+S4 Branch:
+
+*,S4,Wei Kang,False,0.0,0.0,3.0,0,0.31,-0.75
+
+*,S4,Alif,True,0.0,0.0,4.0,1.5,1.31,0.75
+
+*,S4,Quek,False,1.48,-0.36,3,1.5,1.79,0.39
+
+*,S4,Zhi Song,False,0.48,0.14,2.5,1.0,0.29,0.39
+
+ 
+
+ 
+
+HQCOY Branch:
+
